@@ -1,5 +1,4 @@
 #! /bin/bash
-
 sudo echo 123321 > test.txt
 sudo apt update
 sudo apt install nginx -y
